@@ -1,19 +1,21 @@
-# 👩‍💻 Bem-vindo ao meu perfil do GitHub!
+# Olá, Mundo! 💻
 
-## Sobre Mim
-Olá! Sou estudante de **Sistemas da Informação** na **PUC Minas**. Tenho paixão por explorar novas tecnologias, construir soluções de software e automatizar processos. Atualmente, estou me aprofundando em **desenvolvimento web**, **IA** e **ciência de dados**.
-
-- **HTML** ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)
-- **CSS** ![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)
-- **JavaScript** ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)
-- **C#** ![C#](https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png)
-- **Bootstrap** ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png)
+## Sobre mim
+Olá, estudante de **Sistemas da Informação** na **PUC Minas**. Tenho uma paixão por tecnologia e estou empolgado para começar minha jornada no desenvolvimento de software e criar soluções inovadoras.
 
 
-## 🌱 O que estou aprendendo atualmente:
-- Explorando algoritmos de **machine learning** e criando **modelos de IA**.
-- Melhorando minhas habilidades em C#
+## Tecnologias que estou aprendendo de desenvolvimento de software.
 
-## 📫 Contato:
--
-- Email: danton.diniz@gmail.com
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff) HTML
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff) CSS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff) JavaScript
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=fff) C#
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff) Bootstrap
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+### Principais Linguagens Usadas
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&hide_title=true)
+
