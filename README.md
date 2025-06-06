@@ -8,11 +8,11 @@ Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **P
 
 ## Tecnologias que estou aprendendo:
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48"> C#
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48"> C#
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
 
 
 ## Estatísticas
