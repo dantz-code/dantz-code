@@ -8,7 +8,7 @@ Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **P
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![C#](https://res.cloudinary.com/dkgvbv1in/image/upload/v1749250831/imagem_2025-06-06_200021595_sa23bj.png) C#
+- ![C#](https://res.cloudinary.com/dkgvbv1in/image/upload/v1749250831/imagem_2025-06-06_200021595_sa23bj.png =48x48) C#
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
 
 ## Estatísticas
