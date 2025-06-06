@@ -6,16 +6,16 @@ Olá, estudante de **Sistemas da Informação** na **PUC Minas**. Tenho uma paix
 
 ## Tecnologias que estou aprendendo de desenvolvimento de software.
 
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff) HTML
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff) CSS
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff) JavaScript
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=fff) C#
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff) Bootstrap
+- ![HTML](https://img.icons8.com/ios/50/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/ios/50/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
+- ![C#](https://img.icons8.com/ios/50/000000/c-sharp.png) C#
+- ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) Bootstrap
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?dantz-code-github&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ### Principais Linguagens Usadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&hide_title=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?dantz-code-github&layout=compact&hide_title=true)
 
