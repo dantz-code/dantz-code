@@ -11,8 +11,10 @@ Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **P
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="48" height="48"> C#
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50" height="50"> C#
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp.png) C#
+- ![C#](https://img.icons8.com/ios/50/000000/c-sharp.png) C#
 
 
 ## Estatísticas
