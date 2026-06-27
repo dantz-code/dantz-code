@@ -14,7 +14,7 @@ Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **P
 
 ## 🎯 Objetivos
 
-Atualmente, estou focado em aprimorar minhas habilidades em **Inteligência Artificial** e **Desenvolvimento Web & Full Stack**. Meu objetivo é me tornar um **Engenheiro de Software**, utilizando a linguagem **Java**.
+Atualmente, estou focado em aprimorar minhas habilidades em **Inteligência Artificial** e **Desenvolvimento Web & Full Stack**. Meu objetivo é me tornar um **Engenheiro de Software**, utilizando a linguagem **C#**
 
 ## 📊 Estatísticas
 
