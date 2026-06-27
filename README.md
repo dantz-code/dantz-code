@@ -1,25 +1,80 @@
-# Hello, World! 👨‍💻
+# Olá, eu sou o Danton Rodrigues Diniz 👋
 
-## 🙍 Sobre mim
+Sou estudante de **Sistemas de Informação na PUC Minas**, atualmente no **3º período**, com interesse em **desenvolvimento de software**, **banco de dados** e construção de soluções digitais para problemas reais.
 
-Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **PUC Minas**. Tenho uma paixão por tecnologia e estou empolgado para começar minha jornada no desenvolvimento de software e criar soluções.
+Atualmente busco uma oportunidade de **estágio em desenvolvimento de software**, onde eu possa aplicar e evoluir meus conhecimentos em programação, lógica, orientação a objetos, SQL e desenvolvimento web.
 
-## 🚀 Linguagens que estou aprendendo:
+---
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-<img width="860" height="751" alt="image" src="https://github.com/user-attachments/assets/89f61f5c-1301-4f5b-bffc-f078213d5b9c" />
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+## 🚀 Tecnologias e conhecimentos em evolução
 
-## 🎯 Objetivos
+* C#
+* Programação Orientada a Objetos
+* SQL
+* Banco de Dados Relacional
+* HTML
+* CSS
+* JavaScript
+* Git e GitHub
+* Modelagem de sistemas
+* Levantamento de requisitos
 
-Atualmente, estou focado em aprimorar minhas habilidades em **Inteligência Artificial** e **Desenvolvimento Web & Full Stack**. Meu objetivo é me tornar um **Engenheiro de Software**, utilizando a linguagem **C#**
+---
 
-## 📊 Estatísticas
+## 📌 Projetos em destaque
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dantz-code&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### Sistema de Gestão Financeira — Projeto Acadêmico
 
-### Principais Linguagens Usadas
+Projeto desenvolvido na disciplina de Trabalho Interdisciplinar de Aplicações Web, com foco em apoiar pessoas na organização financeira e no entendimento básico sobre finanças e investimentos.
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantz-code&layout=compact&hide_title=true)
+**Tecnologias utilizadas:** HTML, CSS, JavaScript, Node.js, Express e JSON Server.
+
+Principais aprendizados:
+
+* Organização de projeto web
+* Estruturação de páginas
+* Consumo e manipulação de dados
+* Trabalho em equipe
+* Documentação de projeto acadêmico
+
+---
+
+### Sistema de Controle de Vendas e Estoque — Projeto Acadêmico
+
+Projeto voltado para controle de produtos, clientes, fornecedores, entradas de estoque, saídas e vendas.
+
+Principais aprendizados:
+
+* Levantamento de requisitos com usuário real
+* Prototipação de telas
+* Organização de funcionalidades
+* Regras de negócio
+* Estruturação de sistema
+
+---
+
+### Estudos em C# e Programação Orientada a Objetos
+
+Repositório em construção com exercícios e estudos envolvendo:
+
+* Classes e objetos
+* Herança
+* Métodos abstratos
+* Sobrescrita de métodos
+* Listas
+* Tratamento de exceções
+* Factory Method
+
+---
+
+## 🎯 Objetivo atual
+
+Estou focado em evoluir como desenvolvedor, principalmente nas áreas de **back-end com C#**, **banco de dados** e **desenvolvimento web**, construindo uma base sólida para atuar profissionalmente com desenvolvimento de software.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [www.linkedin.com/in/danton-diniz](http://www.linkedin.com/in/danton-diniz)
+* GitHub: github.com/dantz-code
+* E-mail: [danton.diniz@gmail.com](mailto:danton.diniz@gmail.com)
