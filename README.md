@@ -8,6 +8,7 @@ Sou **Danton Rodrigues Diniz**, estudante de **Sistemas da Informação** na **P
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+<img width="860" height="751" alt="image" src="https://github.com/user-attachments/assets/89f61f5c-1301-4f5b-bffc-f078213d5b9c" />
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
