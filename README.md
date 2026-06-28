@@ -127,7 +127,7 @@ Estou focado em construir uma base sólida para atuar com **desenvolvimento de s
 * Back-end com **C#**
 * Programação Orientada a Objetos
 * Banco de Dados e SQL
-* Desenvolvimento web básico
+* Desenvolvimento Web básico
 * Análise e documentação de sistemas
 
 Meu objetivo é evoluir continuamente, aprender com projetos reais e contribuir em equipes de tecnologia com responsabilidade, organização e vontade de aprender.
