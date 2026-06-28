@@ -6,22 +6,26 @@ Tenho interesse em **desenvolvimento de software**, **banco de dados** e criaç�
 
 ---
 
-## 🚀 Tecnologias e conhecimentos em evolução
+## 🚀 Conhecimentos em estudo
+
+Atualmente estou construindo minha base principalmente em:
 
 * **C#**
 * **Programação Orientada a Objetos**
 * **SQL**
 * **Banco de Dados Relacional**
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **Node.js**
-* **Express**
-* **JSON Server**
+* **HTML e CSS**
 * **Git e GitHub**
 * **Modelagem de sistemas**
 * **Levantamento de requisitos**
 * **Documentação de software**
+
+Também tive contato acadêmico com:
+
+* **JavaScript**
+* **Node.js**
+* **Express**
+* **JSON Server**
 
 ---
 
@@ -73,7 +77,9 @@ O projeto inclui criação de tabelas, relacionamentos, chaves primárias e estr
 
 Projeto desenvolvido na disciplina de **Trabalho Interdisciplinar de Aplicações Web**, com foco em apoiar usuários na organização financeira e no entendimento básico sobre finanças e investimentos.
 
-**Tecnologias utilizadas:**
+Nesse projeto, tive contato acadêmico com desenvolvimento web, estruturação de páginas, manipulação de dados e organização de uma aplicação simples.
+
+**Tecnologias utilizadas no projeto:**
 
 * HTML
 * CSS
@@ -89,7 +95,7 @@ Projeto desenvolvido na disciplina de **Trabalho Interdisciplinar de Aplicaçõe
 * Manipulação de dados
 * Trabalho em equipe
 * Documentação de projeto
-* Desenvolvimento de uma aplicação web com front-end e back-end simples
+* Noções de front-end, back-end simples e persistência de dados em ambiente acadêmico
 
 🔗 Repositório: [gestaofinanceiratiaw](https://github.com/dantz-code/gestaofinanceiratiaw)
 
@@ -121,6 +127,7 @@ Estou focado em construir uma base sólida para atuar com **desenvolvimento de s
 * Back-end com **C#**
 * Programação Orientada a Objetos
 * Banco de Dados e SQL
+* Desenvolvimento web básico
 * Análise e documentação de sistemas
 
 Meu objetivo é evoluir continuamente, aprender com projetos reais e contribuir em equipes de tecnologia com responsabilidade, organização e vontade de aprender.
