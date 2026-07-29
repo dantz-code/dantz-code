@@ -1,0 +1,43 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#071A33"/>
+      <stop offset="1" stop-color="#0B2A53"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="370" y1="80" x2="850" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="44" r="220" fill="#0EA5E9" fill-opacity="0.08"/>
+  <circle cx="1045" cy="280" r="180" fill="#2563EB" fill-opacity="0.08"/>
+  <g opacity="0.28" stroke="#38BDF8">
+    <path d="M25 45H175L205 75H320"/><path d="M880 62H1020L1060 102H1170"/>
+    <path d="M845 230H1000L1040 190H1170"/><path d="M40 248H180L215 213H330"/>
+    <circle cx="175" cy="45" r="4" fill="#38BDF8"/><circle cx="1020" cy="62" r="4" fill="#38BDF8"/>
+    <circle cx="1000" cy="230" r="4" fill="#38BDF8"/><circle cx="180" cy="248" r="4" fill="#38BDF8"/>
+  </g>
+  <g opacity="0.2" fill="#7DD3FC">
+    <circle cx="935" cy="90" r="2"/><circle cx="955" cy="90" r="2"/><circle cx="975" cy="90" r="2"/><circle cx="995" cy="90" r="2"/>
+    <circle cx="935" cy="110" r="2"/><circle cx="955" cy="110" r="2"/><circle cx="975" cy="110" r="2"/><circle cx="995" cy="110" r="2"/>
+    <circle cx="935" cy="130" r="2"/><circle cx="955" cy="130" r="2"/><circle cx="975" cy="130" r="2"/><circle cx="995" cy="130" r="2"/>
+  </g>
+  <text x="70" y="92" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600">Olá, eu sou</text>
+  <text x="70" y="153" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Danton Diniz</text>
+  <rect x="70" y="174" width="520" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="70" y="217" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Desenvolvedor Full Stack em formação</text>
+  <text x="70" y="252" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="19">Sistemas de Informação • C# • JavaScript • SQL • Git</text>
+  <g transform="translate(825 162)">
+    <rect width="305" height="82" rx="16" fill="#020617" fill-opacity="0.62" stroke="#0EA5E9" stroke-opacity="0.42"/>
+    <circle cx="25" cy="20" r="5" fill="#38BDF8"/><circle cx="43" cy="20" r="5" fill="#2563EB"/><circle cx="61" cy="20" r="5" fill="#1D4ED8"/>
+    <text x="22" y="51" fill="#7DD3FC" font-family="monospace" font-size="15">const objetivo =</text>
+    <text x="160" y="51" fill="#E2E8F0" font-family="monospace" font-size="15">&quot;evoluir&quot;;</text>
+    <text x="22" y="70" fill="#64748B" font-family="monospace" font-size="13">// aprender • construir • servir</text>
+  </g>
+</svg>
