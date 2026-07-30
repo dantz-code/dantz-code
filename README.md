@@ -64,12 +64,6 @@ Estou consolidando os fundamentos do **JavaScript moderno** por meio de aulas, e
 
 ## Projetos em destaque 🚀
 
-### [Sistema de Gestão Financeira](https://github.com/dantz-code/gestaofinanceiratiaw)
-
-Aplicação acadêmica desenvolvida em equipe para ajudar usuários na organização financeira e no acesso a conteúdos sobre finanças.
-
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express` · `JSON Server`
-
 ### [Estudos em C# e Programação Orientada a Objetos](https://github.com/dantz-code/estudos-csharp-poo)
 
 Repositório com exercícios organizados sobre encapsulamento, herança, polimorfismo, interfaces, classes abstratas, Factory Method, recursividade e matrizes.
