@@ -1,50 +1,74 @@
-<div align="center">
+# Olá! Eu sou o Danton Diniz 👋
 
-# Danton Diniz
+Sou estudante de **Sistemas de Informação na PUC Minas** e estou me preparando para atuar como **desenvolvedor full stack**.
 
-**Estudante de Sistemas de Informação | Desenvolvedor Full Stack em formação**
+Tenho uma base em **C#**, **Programação Orientada a Objetos**, **SQL**, HTML, CSS, Git e GitHub. Atualmente, estou aprofundando meus conhecimentos em **JavaScript** e, posteriormente, pretendo avançar para **TypeScript**, **Node.js** e **React**.
 
-C# · JavaScript · SQL · Git · GitHub
+Gosto da ideia de usar a tecnologia para **solucionar problemas e facilitar a vida das pessoas**.
 
-[LinkedIn](https://www.linkedin.com/in/danton-diniz) · [E-mail](mailto:danton.diniz@gmail.com)
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/danton-diniz">
+    <img src="https://img.shields.io/badge/LinkedIn-Danton%20Diniz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danton.diniz@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <img src="https://img.shields.io/badge/Buscando-Estágio%20em%20Desenvolvimento-22C55E?style=flat-square" alt="Buscando estágio em desenvolvimento" />
+</p>
 
 ---
 
-## Sobre mim
+## Tecnologias e ferramentas 🖥️
 
-Sou estudante de **Sistemas de Informação na PUC Minas**, atualmente no **3º período**, e estou me preparando para atuar com desenvolvimento de software.
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL e Banco de Dados" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
+</div>
 
-Tenho uma base em **C#**, **Programação Orientada a Objetos**, **SQL**, banco de dados relacional, HTML, CSS, Git e GitHub. No momento, estou aprofundando meus conhecimentos em **JavaScript** e, posteriormente, pretendo avançar para **TypeScript**, **Node.js** e **React**.
+`C#` · `POO` · `HTML` · `CSS` · `JavaScript` · `SQL` · `Git` · `GitHub` · `VS Code`
 
-Também tive experiência profissional com sistemas e dados na área da saúde, realizando análise e correção de cadastros, validação de informações e identificação de inconsistências. Essa experiência reforçou meu interesse em utilizar a tecnologia para **solucionar problemas e facilitar a vida das pessoas**.
+### Estudando agora
 
-Atualmente, busco uma oportunidade de **estágio em desenvolvimento de software** para aplicar meus conhecimentos e continuar evoluindo na prática.
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+</div>
 
-## Tecnologias
+Estou consolidando os fundamentos do **JavaScript moderno** por meio de aulas, exercícios e pequenos projetos.
 
-**Conhecimentos atuais**
+### Próximos passos
 
-`C#` · `Programação Orientada a Objetos` · `HTML` · `CSS` · `JavaScript` · `SQL` · `Git` · `GitHub` · `VS Code`
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+</div>
 
-**Estudando agora**
+`TypeScript` → `Node.js` → `APIs` → `React`
 
-`JavaScript moderno`
+---
 
-**Próximos passos**
-
-`TypeScript` · `Node.js` · `APIs` · `React`
-
-## Projetos selecionados
+## Projetos em destaque 🚀
 
 ### [Sistema de Gestão Financeira](https://github.com/dantz-code/gestaofinanceiratiaw)
 
-Aplicação acadêmica desenvolvida em equipe para apoiar usuários na organização financeira e no acesso a conteúdos sobre finanças.
+Aplicação acadêmica desenvolvida em equipe para ajudar usuários na organização financeira e no acesso a conteúdos sobre finanças.
 
 `HTML` · `CSS` · `JavaScript` · `Node.js` · `Express` · `JSON Server`
-
----
 
 ### [Estudos em C# e Programação Orientada a Objetos](https://github.com/dantz-code/estudos-csharp-poo)
 
@@ -52,38 +76,39 @@ Repositório com exercícios organizados sobre encapsulamento, herança, polimor
 
 `C#` · `POO` · `Lógica de programação`
 
----
-
 ### [Plataforma de Cursos — Banco de Dados](https://github.com/dantz-code/bd-plataforma-cursos)
 
 Modelagem e implementação de um banco de dados relacional para uma plataforma simulada de cursos online.
 
 `SQL` · `Modelagem relacional` · `JOIN` · `GROUP BY` · `HAVING`
 
----
-
-### [Gerenciador de Memória Virtual](https://github.com/dantz-code/trabalho-pr-tico2-sistemasoperacionais)
-
-Projeto acadêmico desenvolvido em equipe na disciplina de Sistemas Operacionais, com tradução de endereços, tabela de páginas, TLB, tratamento de page faults, política de substituição Aging e geração de estatísticas.
-
-`Sistemas Operacionais` · `Gerenciamento de memória` · `Trabalho em equipe`
-
-## Formação
-
-**Bacharelado em Sistemas de Informação**  
-PUC Minas — Campus Betim  
-3º período · Previsão de conclusão: julho de 2029
-
-## Contato
-
-Estou aberto a oportunidades de **estágio em desenvolvimento de software** e a conexões com pessoas da área de tecnologia.
-
-[LinkedIn](https://www.linkedin.com/in/danton-diniz) · [E-mail](mailto:danton.diniz@gmail.com)
+<p>
+  <a href="https://github.com/dantz-code?tab=repositories">
+    <strong>Ver todos os repositórios →</strong>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## Um pouco mais sobre mim
 
-<sub>Aprendendo, construindo e evoluindo um projeto de cada vez.</sub>
+- 🎓 Estudante de **Sistemas de Informação** na PUC Minas — Campus Betim
+- 📚 Atualmente no **3º período**
+- 🎯 Buscando uma oportunidade de **estágio em desenvolvimento de software**
+- 💡 Interesse em desenvolvimento web, banco de dados e soluções para problemas reais
+- 🚀 Evoluindo passo a passo para me tornar um desenvolvedor full stack
 
-</div>
+---
+
+## Vamos nos conectar? 🌐
+
+<p>
+  <a href="https://www.linkedin.com/in/danton-diniz">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="34" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danton.diniz@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="E-mail" />
+  </a>
+</p>
+
+> Aprendendo, construindo e evoluindo um projeto de cada vez.
