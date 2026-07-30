@@ -10,7 +10,6 @@ Gosto da ideia de usar a tecnologia para **solucionar problemas e facilitar a vi
   <a href="https://www.linkedin.com/in/danton-diniz">
   </a>
   <a href="mailto:danton.diniz@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
