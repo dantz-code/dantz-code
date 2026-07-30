@@ -6,12 +6,7 @@ Tenho uma base em **C#**, **Programação Orientada a Objetos**, **SQL**, HTML, 
 
 Gosto da ideia de usar a tecnologia para **solucionar problemas e facilitar a vida das pessoas**.
 
-<p>
-  <a href="https://www.linkedin.com/in/danton-diniz">
-  </a>
-  <a href="mailto:danton.diniz@gmail.com">
-  </a>
-</p>
+🎯 Atualmente, busco uma oportunidade de **estágio em desenvolvimento de software**.
 
 ---
 
@@ -61,6 +56,12 @@ Estou consolidando os fundamentos do **JavaScript moderno** por meio de aulas, e
 
 ## Projetos em destaque 🚀
 
+### [Sistema de Gestão Financeira](https://github.com/dantz-code/gestaofinanceiratiaw)
+
+Aplicação acadêmica desenvolvida em equipe para ajudar usuários na organização financeira e no acesso a conteúdos sobre finanças.
+
+`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express` · `JSON Server`
+
 ### [Estudos em C# e Programação Orientada a Objetos](https://github.com/dantz-code/estudos-csharp-poo)
 
 Repositório com exercícios organizados sobre encapsulamento, herança, polimorfismo, interfaces, classes abstratas, Factory Method, recursividade e matrizes.
@@ -95,7 +96,10 @@ Modelagem e implementação de um banco de dados relacional para uma plataforma 
 
 <p>
   <a href="https://www.linkedin.com/in/danton-diniz">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="34" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danton.diniz@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
